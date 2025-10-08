@@ -1,16 +1,27 @@
- Design Your House – Landing Page
+# 🏠 Design Your House – Landing Page  
 
-A modern and fully responsive “Design Your House” landing page built with pure HTML and CSS.
-This project showcases a stylish home interior theme with smooth navigation, a gradient overlay banner, and elegant button hover effects.
+### 💡 Overview  
+**Design Your House** is a modern landing page created using **HTML** and **CSS**.  
+It showcases a creative home design theme with smooth navigation, gradient background, and elegant typography — perfect for interior design, furniture, or architecture concepts.  
 
-✨ Features:
+---
 
-Clean and minimal UI
+### ✨ Features  
+- 🌈 Clean and modern user interface  
+- 🖼️ Beautiful gradient background and transparent buttons  
+- ⚡ Smooth hover animations  
+- 🧩 Easy to edit and customize for any theme  
 
-Fully responsive on all screen sizes
+---
 
-Modern gradient background and transparent buttons
+### 🧱 Built With  
+- **HTML**  
+- **CSS**  
 
-Easy to customize for any home design or architecture theme
+---
 
-Live Demo: 🔗
+### 🚀 Live Demo  
+🔗 [https://muhmmmadirtizakhan.github.io/Grocify-design-landing-page/](https://muhmmmadirtizakhan.github.io/Grocify-design-landing-page/)  
+
+---
+
